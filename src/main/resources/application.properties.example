@@ -1,0 +1,6 @@
+# EDP Monitoring Client Configuration
+
+app.remote.1.name=EDP Backups
+app.remote.1.url=https://edpweb.bereitschaften-drk-bonn.de:8081/
+app.remote.1.interval=30
+app.remote.1.warning.threshold.minutes=10
