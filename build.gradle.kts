@@ -43,7 +43,7 @@ dependencies {
     // Source: https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp
     implementation("com.squareup.okhttp3:okhttp:5.3.2")
 // Source: https://mvnrepository.com/artifact/tools.jackson.core/jackson-databind
-    implementation("tools.jackson.core:jackson-databind:3.0.4")
+    implementation("tools.jackson.core:jackson-databind:3.1.0")
     compileOnly("org.projectlombok:lombok:1.18.42")
     annotationProcessor("org.projectlombok:lombok:1.18.42")
 
